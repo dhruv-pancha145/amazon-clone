@@ -22,20 +22,6 @@ This project focuses on layout design, styling, and UI structure.
 - Font Awesome (for icons)
 
 
-## 📂 Folder Structure
-
-amazon-clone/
-│
-├── index.html
-├── style.css
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-└── README.md
-
-
 ## 🎯 Purpose of Project
 
 This project was created for:
